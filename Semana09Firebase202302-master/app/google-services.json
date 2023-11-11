@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326808800183",
+    "project_id": "preclass-cf1df",
+    "storage_bucket": "preclass-cf1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326808800183:android:bcfc055ad1a78bea407632",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tfYGeLMiNQohIldYUaDG8-XZkqjRQmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326808800183:android:cac9832592269bb3407632",
+        "android_client_info": {
+          "package_name": "com.example.semana09firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tfYGeLMiNQohIldYUaDG8-XZkqjRQmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
